@@ -1,2 +1,5 @@
-# CMPINF_0010
-Repo for CMPINF
+My program takes in name and age and prints it out. 
+
+Group Members:
+Ash Kolli
+Molly Donnelly
